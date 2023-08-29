@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://davidwk.com/daily-post-for-aug-29-2023/",
+            "url": "https://davidwk.com/daily-post-for-aug-29-2023/",
+            "title": "Daily Post for Aug 29, 2023",
+            "summary": "Starting an effort to write a little each day. This will likely be interesting to no one but me, and even that's questionable. But I've found in the past that a daily brain-dump can help clear out the cobwebs, especially when I've got a lot going on. Fair warning -&hellip;",
+            "content_html": "<p>Starting an effort to write a little each day. This will likely be interesting to no one but me, and even that's questionable. But I've found in the past that a daily brain-dump can help clear out the cobwebs, especially when I've got a lot going on. Fair warning - this is mostly going to be verbal salad. A lot of random thoughts that aren't necessarily related.</p>\n<p>Room painting has been the major project the past few weekends. My office, Kid 5's room, and the upstairs bathroom. I hate painting. The taping alone is awful, let alone the actual process. But the final result makes it worth the effort. Maybe.</p>\n<p>Getting this blog setup has also been a project. A more enjoyable one, at that. I tinkered with <a href=\"https://astro.build/\" target=\"_blank\" rel=\"noopener noreferrer\">Astro CMS</a> and I really liked it, but it's overkill for someone who just wants a simple blog. Plus it reminded me that, although I have a web development background, my brain isn't really condusive to solving nit-picky little code issues. In the end, <a href=\"https://getpublii.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Publii</a> was the best option for me. It works with GitHub Pages and has a nice, easy-to-use interface. </p>\n<p>The hate-crime shooting in Jacksonville reminded me, once again, why I left that god-forsaken place. I still claim the Jaguars but not much else. It's a town full of douchebag CEOs and poor white trash masquerading as the middle class. It's got a lot of \"angry white guy\" energy. I don't miss it.</p>\n<p>Started a couple of new shows in the K-Drama category: \"Law School\" and \"Memories of the Alhambra\". I'm not sure I'm going to like either of them because they both have a very \"American\" style. It's similar to why I haven't returned to \"Vagabond\" yet (even the presence of Bae Suzy hasn't coerced me yet). The quirkiness is what I love about South Korean television. If I want to watch an over-stylized, loud show with murder, explosions, and no self-awareness, I'd watch any of the scripted programs on NBC.</p>",
+            "image": "https://davidwk.com/media/posts/2/IMG_3929.jpeg",
+            "author": {
+                "name": "David K"
+            },
+            "tags": [
+                   "daily"
+            ],
+            "date_published": "2023-08-29T11:49:22-04:00",
+            "date_modified": "2023-08-29T11:49:22-04:00"
+        },
+        {
             "id": "https://davidwk.com/my-k-drama-list/",
             "url": "https://davidwk.com/my-k-drama-list/",
             "title": "My K-Drama List",
