@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://davidwk.com/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://davidwk.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://davidwk.com/</loc>
+<loc>https://davidwk.io/</loc>
 </url>
 <url>
-<loc>https://davidwk.com/daily-post-for-aug-29-2023/</loc>
+<loc>https://davidwk.io/daily-post-for-aug-29-2023/</loc>
 <lastmod>2023-08-29T11:49:22-04:00</lastmod>
 <image:image>
-<image:loc>https://davidwk.com/media/posts/2/IMG_3929.jpeg</image:loc>
+<image:loc>https://davidwk.io/media/posts/2/IMG_3929.jpeg</image:loc>
 <image:title><![CDATA[Kid 5 - 8 years old]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://davidwk.com/my-k-drama-list/</loc>
+<loc>https://davidwk.io/my-k-drama-list/</loc>
 <lastmod>2023-08-29T12:34:56-04:00</lastmod>
 <image:image>
-<image:loc>https://davidwk.com/media/posts/1/uncanny.jpeg</image:loc>
+<image:loc>https://davidwk.io/media/posts/1/uncanny.jpeg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://davidwk.com/review-why-i-dont-recommend-do-do-sol-sol-la-la-sol/</loc>
-<lastmod>2023-08-29T12:24:26-04:00</lastmod>
+<loc>https://davidwk.io/review-why-i-dont-recommend-do-do-sol-sol-la-la-sol/</loc>
+<lastmod>2023-08-29T14:51:49-04:00</lastmod>
 <image:image>
-<image:loc>https://davidwk.com/media/posts/3/Do-Do-Sol-Sol-La-La-Sol3.jpg</image:loc>
+<image:loc>https://davidwk.io/media/posts/3/Do-Do-Sol-Sol-La-La-Sol3.jpg</image:loc>
 <image:title><![CDATA[Do Do Sol Sol La La Sol Cast]]></image:title>
 </image:image>
 </url>

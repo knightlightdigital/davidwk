@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>David WK</title>
-    <link href="https://davidwk.com/feed.xml" rel="self" />
-    <link href="https://davidwk.com" />
-    <updated>2023-08-29T12:34:56-04:00</updated>
+    <link href="https://davidwk.io/feed.xml" rel="self" />
+    <link href="https://davidwk.io" />
+    <updated>2023-08-29T14:51:49-04:00</updated>
     <author>
         <name>David K</name>
     </author>
-    <id>https://davidwk.com</id>
+    <id>https://davidwk.io</id>
 
     <entry>
         <title>Review - Why I Don&#x27;t Recommend &quot;Do-Do-Sol-Sol-La-La-Sol&quot;</title>
         <author>
             <name>David K</name>
         </author>
-        <link href="https://davidwk.com/review-why-i-dont-recommend-do-do-sol-sol-la-la-sol/"/>
-        <id>https://davidwk.com/review-why-i-dont-recommend-do-do-sol-sol-la-la-sol/</id>
-        <media:content url="https://davidwk.com/media/posts/3/Do-Do-Sol-Sol-La-La-Sol3.jpg" medium="image" />
+        <link href="https://davidwk.io/review-why-i-dont-recommend-do-do-sol-sol-la-la-sol/"/>
+        <id>https://davidwk.io/review-why-i-dont-recommend-do-do-sol-sol-la-la-sol/</id>
+        <media:content url="https://davidwk.io/media/posts/3/Do-Do-Sol-Sol-La-La-Sol3.jpg" medium="image" />
             <category term="review"/>
             <category term="k-drama"/>
 
-        <updated>2023-08-29T12:24:26-04:00</updated>
+        <updated>2023-08-29T14:51:49-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://davidwk.com/media/posts/3/Do-Do-Sol-Sol-La-La-Sol3.jpg" alt="Do Do Sol Sol La La Sol Cast" />
+                        <img src="https://davidwk.io/media/posts/3/Do-Do-Sol-Sol-La-La-Sol3.jpg" alt="Do Do Sol Sol La La Sol Cast" />
                     <p>It's not often that I find a K-Drama that I won't recommend. Although I personally find most of the writing on South Korean television shows thoughtful and intentional, they're still subject to some of the usual pitfalls of any scripted show. Almost always, though, I find something about them to recommend. </p>
 <p>"Do-Do-Sol-Sol-La-La-Sol" is one of the few I can't, in good conscience, recommend at all, despite all but the last five minutes being wonderful. What happens in those five minutes ruins everything that comes before it, though. My opinion, of course. Your enjoyment may have varied if you've seen it. Spoilers beyond this point.</p>
 
@@ -31,7 +31,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://davidwk.com/media/posts/3/Do-Do-Sol-Sol-La-La-Sol3.jpg" class="type:primaryImage" alt="Do Do Sol Sol La La Sol Cast" /></p>
+                    <p><img src="https://davidwk.io/media/posts/3/Do-Do-Sol-Sol-La-La-Sol3.jpg" class="type:primaryImage" alt="Do Do Sol Sol La La Sol Cast" /></p>
                 <p>It's not often that I find a K-Drama that I won't recommend. Although I personally find most of the writing on South Korean television shows thoughtful and intentional, they're still subject to some of the usual pitfalls of any scripted show. Almost always, though, I find something about them to recommend. </p>
 <p>"Do-Do-Sol-Sol-La-La-Sol" is one of the few I can't, in good conscience, recommend at all, despite all but the last five minutes being wonderful. What happens in those five minutes ruins everything that comes before it, though. My opinion, of course. Your enjoyment may have varied if you've seen it. Spoilers beyond this point.</p>
 
@@ -49,21 +49,21 @@
         <author>
             <name>David K</name>
         </author>
-        <link href="https://davidwk.com/daily-post-for-aug-29-2023/"/>
-        <id>https://davidwk.com/daily-post-for-aug-29-2023/</id>
-        <media:content url="https://davidwk.com/media/posts/2/IMG_3929.jpeg" medium="image" />
+        <link href="https://davidwk.io/daily-post-for-aug-29-2023/"/>
+        <id>https://davidwk.io/daily-post-for-aug-29-2023/</id>
+        <media:content url="https://davidwk.io/media/posts/2/IMG_3929.jpeg" medium="image" />
             <category term="daily"/>
 
         <updated>2023-08-29T11:49:22-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://davidwk.com/media/posts/2/IMG_3929.jpeg" alt="Kid 5 - 8 years old" />
+                        <img src="https://davidwk.io/media/posts/2/IMG_3929.jpeg" alt="Kid 5 - 8 years old" />
                     Starting an effort to write a little each day. This will likely be interesting to no one but me, and even that's questionable. But I've found in the past that a daily brain-dump can help clear out the cobwebs, especially when I've got a lot going on. Fair warning -&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://davidwk.com/media/posts/2/IMG_3929.jpeg" class="type:primaryImage" alt="Kid 5 - 8 years old" /></p>
+                    <p><img src="https://davidwk.io/media/posts/2/IMG_3929.jpeg" class="type:primaryImage" alt="Kid 5 - 8 years old" /></p>
                 <p>Starting an effort to write a little each day. This will likely be interesting to no one but me, and even that's questionable. But I've found in the past that a daily brain-dump can help clear out the cobwebs, especially when I've got a lot going on. Fair warning - this is mostly going to be verbal salad. A lot of random thoughts that aren't necessarily related.</p>
 <p>Room painting has been the major project the past few weekends. My office, Kid 5's room, and the upstairs bathroom. I hate painting. The taping alone is awful, let alone the actual process. But the final result makes it worth the effort. Maybe.</p>
 <p>Getting this blog setup has also been a project. A more enjoyable one, at that. I tinkered with <a href="https://astro.build/" target="_blank" rel="noopener noreferrer">Astro CMS</a> and I really liked it, but it's overkill for someone who just wants a simple blog. Plus it reminded me that, although I have a web development background, my brain isn't really condusive to solving nit-picky little code issues. In the end, <a href="https://getpublii.com/" target="_blank" rel="noopener noreferrer">Publii</a> was the best option for me. It works with GitHub Pages and has a nice, easy-to-use interface. </p>
@@ -77,21 +77,21 @@
         <author>
             <name>David K</name>
         </author>
-        <link href="https://davidwk.com/my-k-drama-list/"/>
-        <id>https://davidwk.com/my-k-drama-list/</id>
-        <media:content url="https://davidwk.com/media/posts/1/uncanny.jpeg" medium="image" />
+        <link href="https://davidwk.io/my-k-drama-list/"/>
+        <id>https://davidwk.io/my-k-drama-list/</id>
+        <media:content url="https://davidwk.io/media/posts/1/uncanny.jpeg" medium="image" />
             <category term="k-drama"/>
 
         <updated>2023-08-29T12:34:56-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://davidwk.com/media/posts/1/uncanny.jpeg" alt="" />
+                        <img src="https://davidwk.io/media/posts/1/uncanny.jpeg" alt="" />
                     I’m a HUGE fan of South Korean television, more commonly referred to as “K-Drama”. It started with “Squid Game”, but it didn’t take me long to deep-dive into the enormous K-Drama library on Netflix. “Extraordinary Attorney Woo” was the show that really hooked me. Since then, most of my streaming&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://davidwk.com/media/posts/1/uncanny.jpeg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://davidwk.io/media/posts/1/uncanny.jpeg" class="type:primaryImage" alt="" /></p>
                 <p>I’m a HUGE fan of South Korean television, more commonly referred to as “K-Drama”. It started with “Squid Game”, but it didn’t take me long to deep-dive into the enormous K-Drama library on Netflix. “Extraordinary Attorney Woo” was the show that really hooked me. Since then, most of my streaming time has been spent on South Korean television. </p>
 <p>I’m going to be slowly expanding this list to include my thoughts on each show, and I’ll be using tags to help others sort through them and find things they like. For now, and without any spoilers, here are some quick recommendations. Unless specified otherwise, these are all available on Netflix in the US.</p>
 <p><strong>My Personal Favorite</strong> - Extraordinary Attorney Woo</p>
