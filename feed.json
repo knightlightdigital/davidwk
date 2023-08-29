@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://davidwk.io/about-me/",
+            "url": "https://davidwk.io/about-me/",
+            "title": "About Me",
+            "summary": "You have reached the obligatory \"about\" page. I'm from the Cincinnati-ish area of the Midwest. I'm a Scrum Master, a career I stumbled into when my technical skills went the way of the dinosaur. So now instead of writing horrible web applications, I coach teams on how to develop great&hellip;",
+            "content_html": "<figure class=\"post__image post__image--left\"><img loading=\"lazy\"  src=\"https://davidwk.io/media/posts/4/davidk.jpeg\" alt=\"It's me. Hi.\" width=\"400\" height=\"400\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://davidwk.io/media/posts/4/responsive/davidk-xs.jpeg 300w ,https://davidwk.io/media/posts/4/responsive/davidk-sm.jpeg 480w ,https://davidwk.io/media/posts/4/responsive/davidk-md.jpeg 768w ,https://davidwk.io/media/posts/4/responsive/davidk-xl.jpeg 1200w\"></figure>You have reached the obligatory \"about\" page. I'm from the Cincinnati-ish area of the Midwest. I'm a Scrum Master, a career I stumbled into when my technical skills went the way of the dinosaur. So now instead of writing horrible web applications, I coach teams on how to develop great ones. I've been with my current company for over 10 years, which is a record for me, having come of age during the dot-com boom.</p>\n<p>My professional life doesn't define me, though. I'm also a dad, husband, and more recently, a grandfather. My last child will be out of the house in about 10 years, at which time I hope I'm not too old to do anything fun. </p>\n<p>I also enjoy astronomy, particularly public outreach. I'm a member of the local club. I own too many telescopes.</p>\n<p>This blog is a vanity project for sure, but it's also an outlet for talking about things I like, and working through things that bother me. Mostly I just try to write, regardless of the subject. It's good for my mental health.</p>\n<p>Feel free to <a href=\"mailto:nkastronomy@gmail.com\">contact me</a> if you like.</p>",
+            "author": {
+                "name": "David K"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-08-29T15:36:49-04:00",
+            "date_modified": "2023-08-29T15:36:49-04:00"
+        },
+        {
             "id": "https://davidwk.io/review-why-i-dont-recommend-do-do-sol-sol-la-la-sol/",
             "url": "https://davidwk.io/review-why-i-dont-recommend-do-do-sol-sol-la-la-sol/",
             "title": "Review - Why I Don&#x27;t Recommend &quot;Do-Do-Sol-Sol-La-La-Sol&quot;",
