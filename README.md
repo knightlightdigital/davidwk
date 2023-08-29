@@ -1,2 +1,0 @@
-# davidwk
-Personal Blog
