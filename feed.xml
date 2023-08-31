@@ -3,12 +3,38 @@
     <title>David WK</title>
     <link href="https://davidwk.io/feed.xml" rel="self" />
     <link href="https://davidwk.io" />
-    <updated>2023-08-30T07:28:28-04:00</updated>
+    <updated>2023-08-31T13:00:38-04:00</updated>
     <author>
         <name>David K</name>
     </author>
     <id>https://davidwk.io</id>
 
+    <entry>
+        <title>Daily Post for Aug 31, 2023</title>
+        <author>
+            <name>David K</name>
+        </author>
+        <link href="https://davidwk.io/daily-post-for-aug-31-2023/"/>
+        <id>https://davidwk.io/daily-post-for-aug-31-2023/</id>
+            <category term="daily"/>
+
+        <updated>2023-08-31T13:00:38-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Today was "medicine check" day with my psychiatrist. Switched things up a little bit because I'm still in kind of a recovery mode from my terrible '22. With the right kind of stimulant, I'm the person I want to be - confident, pro-active, productive, outgoing. Vyvanse, the stuff I was&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Today was "medicine check" day with my psychiatrist. Switched things up a little bit because I'm still in kind of a recovery mode from my terrible '22. With the right kind of stimulant, I'm the person I want to be - confident, pro-active, productive, outgoing. Vyvanse, the stuff I was taking before, was total shit for me. It did nothing but increase my anxiety and dull my personality. </p>
+<p>I don't know how it's possible, but I lost 5 more pounds. I'm still in fat-ass territory, but I'm lucky to be at this point with the way I've been eating lately. I wish there was a coma diet. Just put me under for a couple months and feed me intravenously. </p>
+<p>Yesterday in the office was pretty good. Got to meet some people face to face for the first time, saw a few work friends, and saw a lot of people from my old team. Free food was a bonus. It's a shame, though...they completely remodeled the office with all this great collaboration equipment, but it rarely gets used. Not that I want to go back full time (the drive sucks), but I hate to see it go to waste.</p>
+<p>It's a story too long to tell, but I've been dealing with a charge for training that I wasn't supposed to pay for. My part was $400, but through a series of unfortunate clicks, I paid $3600. The refund is somewhere between PayPal and my bank, a kind of purgatory that I wouldn't wish on my worst enemy. </p>
+<p>I'm diving deeper into automation with Power Automate and Teams at work. Not my job, but a skill that really helps me streamline things for my team. Going to start taking some training and impress the shit out of people.</p>
+<p>Fun note: go check out <a href="https://ideogram.ai" target="_blank" rel="noopener noreferrer">ideogram.ai</a>. It's a pretty good AI picture generator. The logo for my site was created with it, as was the featured image for this post.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Daily Post for Aug 30, 2023</title>
         <author>
