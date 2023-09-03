@@ -3,7 +3,7 @@
     <title>David WK</title>
     <link href="https://davidwk.io/feed.xml" rel="self" />
     <link href="https://davidwk.io" />
-    <updated>2023-09-03T08:59:19-04:00</updated>
+    <updated>2023-09-03T09:00:04-04:00</updated>
     <author>
         <name>David K</name>
     </author>
@@ -18,8 +18,9 @@
         <id>https://davidwk.io/daily-post-for-sep-3-2023/</id>
         <media:content url="https://davidwk.io/media/posts/10/IMG_0126.jpg" medium="image" />
             <category term="daily"/>
+            <category term="astronomy"/>
 
-        <updated>2023-09-03T08:59:19-04:00</updated>
+        <updated>2023-09-03T09:00:04-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://davidwk.io/media/posts/10/IMG_0126.jpg" alt="A screenshot of the ASI Air app taking an image of the Whirlpool Galaxy" />
