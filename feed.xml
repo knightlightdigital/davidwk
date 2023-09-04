@@ -3,7 +3,7 @@
     <title>David WK</title>
     <link href="https://davidwk.io/feed.xml" rel="self" />
     <link href="https://davidwk.io" />
-    <updated>2023-09-04T11:34:11-04:00</updated>
+    <updated>2023-09-04T11:47:12-04:00</updated>
     <author>
         <name>David K</name>
     </author>
@@ -20,7 +20,7 @@
             <category term="logseq"/>
             <category term="daily"/>
 
-        <updated>2023-09-04T11:34:11-04:00</updated>
+        <updated>2023-09-04T11:47:12-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://davidwk.io/media/posts/11/irobot.jpg" alt="Sonny from &quot;I, Robot&quot; winking" />
@@ -31,6 +31,7 @@
             <![CDATA[
                     <p><img src="https://davidwk.io/media/posts/11/irobot.jpg" class="type:primaryImage" alt="Sonny from &quot;I, Robot&quot; winking" /></p>
                 <p>In order to avoid physical labor, I've been spending a couple of days setting up <a href="https://logseq.com/" target="_blank" rel="noopener noreferrer">Logseq</a> for keeping notes and task lists. When digging through the available plugins I found one for ChatGPT. Now, I don't think what we're calling "AI" these days is actually AI. There's no real intelligence there, and these systems aren't thinking for themselves. We've just gotten very good at training these large language models to write text that sounds like a person wrote it. But what we CAN do is still pretty cool. Here's an example of the output you get when I asked it to write a summary for "The Uncanny Counter".</p>
+<p> </p>
 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/3PtmgZN3jhU?si=pl5jAlpb5AtVRyqn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></div>
 <p> </p>
             ]]>
