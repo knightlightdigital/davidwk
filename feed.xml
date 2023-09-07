@@ -3,12 +3,38 @@
     <title>David WK</title>
     <link href="https://davidwk.io/feed.xml" rel="self" />
     <link href="https://davidwk.io" />
-    <updated>2023-09-04T11:47:12-04:00</updated>
+    <updated>2023-09-06T20:43:27-04:00</updated>
     <author>
         <name>David K</name>
     </author>
     <id>https://davidwk.io</id>
 
+    <entry>
+        <title>Daily Post for Sep 6, 2023</title>
+        <author>
+            <name>David K</name>
+        </author>
+        <link href="https://davidwk.io/daily-post-for-sep-6-2023/"/>
+        <id>https://davidwk.io/daily-post-for-sep-6-2023/</id>
+        <media:content url="https://davidwk.io/media/posts/12/cabin.jpg" medium="image" />
+            <category term="daily"/>
+
+        <updated>2023-09-06T20:43:27-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://davidwk.io/media/posts/12/cabin.jpg" alt="A cabin in Tennessee" />
+                    Not much to update for today, but since I missed yesterday I better make an effort to keep with the habit. It was another day in the office. I was oddly productive. I'll have to consult my scientists to see why that might be. I was able to work a&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://davidwk.io/media/posts/12/cabin.jpg" class="type:primaryImage" alt="A cabin in Tennessee" /></p>
+                <p>Not much to update for today, but since I missed yesterday I better make an effort to keep with the habit.</p>
+<p>It was another day in the office. I was oddly productive. I'll have to consult my scientists to see why that might be.</p>
+<p>I was able to work a lot with Logseq today and really enjoyed it. I'm getting some of the basic keyboard commands down, in addition to building a habit of logging things more. Tonight Kid 5 and I made a list of some cabins we would like to visit and created <a href="https://davidwk.io/cabins-we-like/">this page</a> to keep track. We generated the Markdown in Logseq and exported it here.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Daily Post for Sep 4, 2023</title>
         <author>
