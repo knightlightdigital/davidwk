@@ -3,12 +3,39 @@
     <title>David WK</title>
     <link href="https://davidwk.io/feed.xml" rel="self" />
     <link href="https://davidwk.io" />
-    <updated>2023-09-06T20:43:27-04:00</updated>
+    <updated>2023-09-07T09:03:18-04:00</updated>
     <author>
         <name>David K</name>
     </author>
     <id>https://davidwk.io</id>
 
+    <entry>
+        <title>Daily Post for Sep 7, 2023</title>
+        <author>
+            <name>David K</name>
+        </author>
+        <link href="https://davidwk.io/daily-post-for-sep-7-2023/"/>
+        <id>https://davidwk.io/daily-post-for-sep-7-2023/</id>
+        <media:content url="https://davidwk.io/media/posts/14/cris-saur-GNUcUx-iObg-unsplash.jpg" medium="image" />
+
+        <updated>2023-09-07T09:03:18-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://davidwk.io/media/posts/14/cris-saur-GNUcUx-iObg-unsplash.jpg" alt="A koala sleeping in a tree" />
+                    I did not sleep well last night. This morning I feel like the dead, but I'm going to power through it. Too many stimulants yesterday to make me functional for my in-office day must have taken their toll. I'm really taking a liking to Logseq. Now that I've got the&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://davidwk.io/media/posts/14/cris-saur-GNUcUx-iObg-unsplash.jpg" class="type:primaryImage" alt="A koala sleeping in a tree" /></p>
+                <p>I did not sleep well last night. This morning I feel like the dead, but I'm going to power through it. Too many stimulants yesterday to make me functional for my in-office day must have taken their toll.</p>
+<p>I'm really taking a liking to Logseq. Now that I've got the basics down, I'm moving quickly through my daily journaling and keeping track of my to-dos. One of them is a daily reminder to write this post. It worked, obviously.</p>
+<p>I ordered a copy of the National Geographic Stargazer's Atlas. I'm more excited than I should be for a book. Nerd-mode engaged.</p>
+<p>My recently moved-out teenager finally found a decent job, and might have an apartment soon. He doesn't give a lot of details and I don't ask, but I'm certainly proud of him. This is huge progress over where he was a couple of months ago.</p>
+<p>Speaking of which, life is much calmer without him in the house. We all needed space. It's not easy on a family when they have to deal with another member's trauma, particularly when they don't want to help themselves. I think being on his own has been a net positive.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Daily Post for Sep 6, 2023</title>
         <author>
@@ -417,34 +444,6 @@
 <p>The final scene is Ra-ra and Joon sitting in a park, her crying uncontrollably and confused out of her mind. Joon tells her that he, once again, lied about being dead because he wanted to complete his treatment first (it takes 5 years to cure MS?). Add this to the long list of lies that included "I'm studying abroad" while in the hospital, "I'm actually 19 and a high school senior" instead of 23, and "I'm just a tacitern loner" instead of a run-away who hates his parents.</p>
 <p>The writers took a beautiful story about love, loss, grief, and perseverence and threw it into the trash because they couldn't stand a world where this couple isn't together. That final scene feels tacked-on, like a committee of executives decided that the audience wasn't intelligent enough to deal with such an emotional ending. It's a shame because this was almost one of my favorite shows.</p>
 <p>If you want to watch it, all I can recommend is that you turn it off when you see the screen say "5 years later". Accept that as the ending and maybe you'll find the show more enjoyable because you can't un-see the ending they actually give you.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Daily Post for Aug 29, 2023</title>
-        <author>
-            <name>David K</name>
-        </author>
-        <link href="https://davidwk.io/daily-post-for-aug-29-2023/"/>
-        <id>https://davidwk.io/daily-post-for-aug-29-2023/</id>
-        <media:content url="https://davidwk.io/media/posts/2/IMG_3929.jpeg" medium="image" />
-            <category term="daily"/>
-
-        <updated>2023-08-29T11:49:22-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://davidwk.io/media/posts/2/IMG_3929.jpeg" alt="Kid 5 - 8 years old" />
-                    Starting an effort to write a little each day. This will likely be interesting to no one but me, and even that's questionable. But I've found in the past that a daily brain-dump can help clear out the cobwebs, especially when I've got a lot going on. Fair warning -&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://davidwk.io/media/posts/2/IMG_3929.jpeg" class="type:primaryImage" alt="Kid 5 - 8 years old" /></p>
-                <p>Starting an effort to write a little each day. This will likely be interesting to no one but me, and even that's questionable. But I've found in the past that a daily brain-dump can help clear out the cobwebs, especially when I've got a lot going on. Fair warning - this is mostly going to be verbal salad. A lot of random thoughts that aren't necessarily related.</p>
-<p>Room painting has been the major project the past few weekends. My office, Kid 5's room, and the upstairs bathroom. I hate painting. The taping alone is awful, let alone the actual process. But the final result makes it worth the effort. Maybe.</p>
-<p>Getting this blog setup has also been a project. A more enjoyable one, at that. I tinkered with <a href="https://astro.build/" target="_blank" rel="noopener noreferrer">Astro CMS</a> and I really liked it, but it's overkill for someone who just wants a simple blog. Plus it reminded me that, although I have a web development background, my brain isn't really condusive to solving nit-picky little code issues. In the end, <a href="https://getpublii.com/" target="_blank" rel="noopener noreferrer">Publii</a> was the best option for me. It works with GitHub Pages and has a nice, easy-to-use interface. </p>
-<p>The hate-crime shooting in Jacksonville reminded me, once again, why I left that god-forsaken place. I still claim the Jaguars but not much else. It's a town full of douchebag CEOs and poor white trash masquerading as the middle class. It's got a lot of "angry white guy" energy. I don't miss it.</p>
-<p>Started a couple of new shows in the K-Drama category: "Law School" and "Memories of the Alhambra". I'm not sure I'm going to like either of them because they both have a very "American" style. It's similar to why I haven't returned to "Vagabond" yet (even the presence of Bae Suzy hasn't coerced me yet). The quirkiness is what I love about South Korean television. If I want to watch an over-stylized, loud show with murder, explosions, and no self-awareness, I'd watch any of the scripted programs on NBC.</p>
             ]]>
         </content>
     </entry>
