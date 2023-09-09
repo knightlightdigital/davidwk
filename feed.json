@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://davidwk.io/daily-post-for-sep-9-2023/",
+            "url": "https://davidwk.io/daily-post-for-sep-9-2023/",
+            "title": "Daily Post for Sep 9, 2023",
+            "summary": "I'm starting to question my use of Publii as a blogging tool. I'm noticing it getting slower the more I write, and I haven't written that much. I'm also wanting a mobile option for posting and there's none of that on the horizon. Since I'm spending so much time in&hellip;",
+            "content_html": "<p>I'm starting to question my use of Publii as a blogging tool. I'm noticing it getting slower the more I write, and I haven't written that much. I'm also wanting a mobile option for posting and there's none of that on the horizon. Since I'm spending so much time in Logseq these days, I might try out the Hugo integration and see if it's just as easy. I wouldn't mind having all this backed up in my primary note taking system, and Logseq has a great mobile app.</p>\n<p>Kid 5's team won their soccer game today. They're undefeated this season and even running up the score a little bit. I think they've allowed one goal in 3-4 games. We're talking 9 year olds here, but their confidence is off the charts after being together for several years. They're fun to watch.</p>\n<p>Astronomy outreach event tonight. This is my favorite part of the hobby, and this time of year it's even better with all the amazement at seeing Saturn through a telescope for the first time. I'm overdoing it, as usual, taking my 12\" Dob, 8\" Celestron, and binoculars, but what's the point of having this stuff if you don't use it to inspire the next generation of astronomy nerds?</p>\n<p>Finally feeling back to normal after being sick for three days. It wasn't COVID, but it sure felt like it. </p>",
+            "image": "https://davidwk.io/media/posts/15/frye-sus.jpg",
+            "author": {
+                "name": "David K"
+            },
+            "tags": [
+                   "daily"
+            ],
+            "date_published": "2023-09-09T14:03:55-04:00",
+            "date_modified": "2023-09-09T14:03:55-04:00"
+        },
+        {
             "id": "https://davidwk.io/daily-post-for-sep-7-2023/",
             "url": "https://davidwk.io/daily-post-for-sep-7-2023/",
             "title": "Daily Post for Sep 7, 2023",
@@ -154,23 +170,6 @@
             ],
             "date_published": "2023-08-29T15:46:29-04:00",
             "date_modified": "2023-08-29T15:59:53-04:00"
-        },
-        {
-            "id": "https://davidwk.io/review-why-i-dont-recommend-do-do-sol-sol-la-la-sol/",
-            "url": "https://davidwk.io/review-why-i-dont-recommend-do-do-sol-sol-la-la-sol/",
-            "title": "K-Review - Why I Don&#x27;t Recommend &quot;Do-Do-Sol-Sol-La-La-Sol&quot;",
-            "summary": "It's not often that I find a K-Drama that I won't recommend. Although I personally find most of the writing on South Korean television shows thoughtful and intentional, they're still subject to some of the usual pitfalls of any scripted show. Almost always, though, I find something about them to&hellip;",
-            "content_html": "<p>It's not often that I find a K-Drama that I won't recommend. Although I personally find most of the writing on South Korean television shows thoughtful and intentional, they're still subject to some of the usual pitfalls of any scripted show. Almost always, though, I find something about them to recommend. </p>\n<p>\"Do-Do-Sol-Sol-La-La-Sol\" is one of the few I can't, in good conscience, recommend at all, despite all but the last five minutes being wonderful. What happens in those five minutes ruins everything that comes before it, though. My opinion, of course. Your enjoyment may have varied if you've seen it. <span style=\"color: #e03e2d;\"><strong>Spoilers beyond this point</strong></span>.</p>\n<p>The male lead in \"Do-Do-Sol-Sol-La-La-Sol\" has a real problem with telling the truth. He has his reasons, but as the show goes on and he continues to lie to his girlfriend, you really have to wonder how she trusts him. It's the final lie that's the unforgivable sin for me, though.</p>\n<p>In the final episode, everyone is dealing with the death of Sunwoo Joon (Lee Jae-wook), the male lead and boyfriend of Goo Ra-ra (Go Ara), the charasmatic female lead. Sunwoo Joon's mother revealed in the penultimate episode that he had died from MS. Although heart-breaking, the final episode has some fantastic insight into dealing with grief and how different people move on in different ways. </p>\n<p>The problem is - Sunwoo Joon isn't actually dead! In the closing moments we get a \"5 years later\" prompt and we see how Ra-ra has dealt with her loss. Her piano academy is flourishing, her friends are all still there, supporting her. She's done well. Then in a scene that's confusing as hell, we see Joon, dressed in all black, running up to the academy building. Her bursts through the door and a total shit-show ensues.</p>\n<p>The final scene is Ra-ra and Joon sitting in a park, her crying uncontrollably and confused out of her mind. Joon tells her that he, once again, lied about being dead because he wanted to complete his treatment first (it takes 5 years to cure MS?). Add this to the long list of lies that included \"I'm studying abroad\" while in the hospital, \"I'm actually 19 and a high school senior\" instead of 23, and \"I'm just a tacitern loner\" instead of a run-away who hates his parents.</p>\n<p>The writers took a beautiful story about love, loss, grief, and perseverence and threw it into the trash because they couldn't stand a world where this couple isn't together. That final scene feels tacked-on, like a committee of executives decided that the audience wasn't intelligent enough to deal with such an emotional ending. It's a shame because this was almost one of my favorite shows.</p>\n<p>If you want to watch it, all I can recommend is that you turn it off when you see the screen say \"5 years later\". Accept that as the ending and maybe you'll find the show more enjoyable because you can't un-see the ending they actually give you.</p>",
-            "image": "https://davidwk.io/media/posts/3/Do-Do-Sol-Sol-La-La-Sol3.jpg",
-            "author": {
-                "name": "David K"
-            },
-            "tags": [
-                   "review",
-                   "k-drama"
-            ],
-            "date_published": "2023-08-29T11:56:36-04:00",
-            "date_modified": "2023-09-01T09:02:17-04:00"
         }
     ]
 }
