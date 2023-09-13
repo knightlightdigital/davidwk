@@ -3,7 +3,7 @@
     <title>David WK</title>
     <link href="https://davidwk.io/feed.xml" rel="self" />
     <link href="https://davidwk.io" />
-    <updated>2023-09-13T08:44:36-04:00</updated>
+    <updated>2023-09-13T08:48:06-04:00</updated>
     <author>
         <name>David K</name>
     </author>
@@ -16,15 +16,19 @@
         </author>
         <link href="https://davidwk.io/daily-post-for-sep-13-2023/"/>
         <id>https://davidwk.io/daily-post-for-sep-13-2023/</id>
+        <media:content url="https://davidwk.io/media/posts/16/wtc.jpeg" medium="image" />
+            <category term="daily"/>
 
-        <updated>2023-09-13T08:44:36-04:00</updated>
+        <updated>2023-09-13T08:48:06-04:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://davidwk.io/media/posts/16/wtc.jpeg" alt="An image of the World Trade Center Memorial" />
                     Monday was the anniversary of 9/11. I have very mixed feelings about that particular day. That day was awful, and I certainly want those who were lost and the heroes that emerged to be remembered. I also feel like it was our responsibility to find those responsible and bring them&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://davidwk.io/media/posts/16/wtc.jpeg" class="type:primaryImage" alt="An image of the World Trade Center Memorial" /></p>
                 <p>Monday was the anniversary of 9/11. I have very mixed feelings about that particular day. That day was awful, and I certainly want those who were lost and the heroes that emerged to be remembered. I also feel like it was our responsibility to find those responsible and bring them to justice. However, so much evil was done by our country in the name of retribution that I can't fully embrace it. The US has always had a problematic past when it comes to the treatment of others. 9/11 was an excuse for those who already had hate in their heart to put that hate into action. As a result we fabricated evidence and used it to invade a country that wasn't even involved. It essentially gave Bush Jr. an opportunity to finish the war his father started and lost, over oil. That day marked a change in our politics that led to extremism in conservative circles. Guantanamo and Abu Ghraib are atrocities that our politicians enabled in the name of justice. It sickens me that we became monsters willingly in order to feel safer.</p>
             ]]>
         </content>
