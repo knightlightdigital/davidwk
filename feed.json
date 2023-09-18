@@ -11,6 +11,24 @@
     },
     "items": [
         {
+            "id": "https://davidwk.io/k-review-diary-of-a-prosecutor/",
+            "url": "https://davidwk.io/k-review-diary-of-a-prosecutor/",
+            "title": "K-Review - Diary of a Prosecutor",
+            "summary": "I recently finished “Diary of a Prosecutor” and I highly recommend it! Lee Sun Kyung as Prosecutor Lee has amazing comedic presence and holds his own in the dramatic department as well. The ensemble cast is brilliant in typical K-drama fashion and play well off each other. Each episode is&hellip;",
+            "content_html": "<div class=\"x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s x126k92a\">\n<div dir=\"auto\">I recently finished “Diary of a Prosecutor” and I highly recommend it!</div>\n<div dir=\"auto\"> </div>\n<div dir=\"auto\"><a href=\"https://www.wikiwand.com/en/Lee_Sun-kyun\" target=\"_blank\" rel=\"noopener noreferrer\">Lee Sun Kyung</a> as Prosecutor Lee has amazing comedic presence and holds his own in the dramatic department as well. The ensemble cast is brilliant in typical K-drama fashion and play well off each other.</div>\n<div dir=\"auto\"> </div>\n<div dir=\"auto\">Each episode is more or less self-contained although there are several overarching plot lines that carry through to the end. I’d call this show “comfort food” type viewing. It’s <a tabindex=\"-1\"></a>definitely “bingeable” - as bingeable as any K-drama at 16, hour-plus episodes - but something probably enjoyed at a more normal pace and one I would enjoy rewatching.</div>\n<div dir=\"auto\"> </div>\n<div dir=\"auto\"><a href=\"https://www.wikiwand.com/en/Kim_Kwang-kyu_(actor)\" target=\"_blank\" rel=\"noopener noreferrer\">Kim Kwang iyu</a> has become one of my favorite character actors in South Korean television and he's very funny as Prosecutor Hong, a very self-conscious public servant of 14 years. I'm currently enjoying his small role in \"Business Proposal\" as Kim Sejeong's father.</div>\n<div dir=\"auto\"> </div>\n</div>\n<div class=\"x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s x126k92a\">\n<div dir=\"auto\">And I would be remiss if I didn’t mention <a href=\"https://www.wikiwand.com/en/Jung_Ryeo-won\" target=\"_blank\" rel=\"noopener noreferrer\">Jung Ryeowon</a> as Prosecutor Cha. What a subtle, understated performance!</div>\n<div dir=\"auto\"> </div>\n<div dir=\"auto\"><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://davidwk.io/media/posts/18/dap2.jpeg\" alt=\"Cast of Diary of a Prosecutor\" width=\"780\" height=\"439\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://davidwk.io/media/posts/18/responsive/dap2-xs.jpeg 300w ,https://davidwk.io/media/posts/18/responsive/dap2-sm.jpeg 480w ,https://davidwk.io/media/posts/18/responsive/dap2-md.jpeg 768w ,https://davidwk.io/media/posts/18/responsive/dap2-xl.jpeg 1200w\"></figure></div>\n</div>",
+            "image": "https://davidwk.io/media/posts/18/dap.jpeg",
+            "author": {
+                "name": "David K"
+            },
+            "tags": [
+                   "review",
+                   "recommended",
+                   "k-drama"
+            ],
+            "date_published": "2023-09-18T09:13:39-04:00",
+            "date_modified": "2023-09-18T09:23:26-04:00"
+        },
+        {
             "id": "https://davidwk.io/eaa-first-real-success/",
             "url": "https://davidwk.io/eaa-first-real-success/",
             "title": "EAA First Real Success",
@@ -155,22 +173,6 @@
             ],
             "date_published": "2023-09-01T08:52:40-04:00",
             "date_modified": "2023-09-01T10:01:53-04:00"
-        },
-        {
-            "id": "https://davidwk.io/daily-post-for-aug-31-2023/",
-            "url": "https://davidwk.io/daily-post-for-aug-31-2023/",
-            "title": "Daily Post for Aug 31, 2023",
-            "summary": "Today was \"medicine check\" day with my psychiatrist. Switched things up a little bit because I'm still in kind of a recovery mode from my terrible '22. With the right kind of stimulant, I'm the person I want to be - confident, pro-active, productive, outgoing. Vyvanse, the stuff I was&hellip;",
-            "content_html": "<p>Today was \"medicine check\" day with my psychiatrist. Switched things up a little bit because I'm still in kind of a recovery mode from my terrible '22. With the right kind of stimulant, I'm the person I want to be - confident, pro-active, productive, outgoing. Vyvanse, the stuff I was taking before, was total shit for me. It did nothing but increase my anxiety and dull my personality. </p>\n<p>I don't know how it's possible, but I lost 5 more pounds. I'm still in fat-ass territory, but I'm lucky to be at this point with the way I've been eating lately. I wish there was a coma diet. Just put me under for a couple months and feed me intravenously. </p>\n<p>Yesterday in the office was pretty good. Got to meet some people face to face for the first time, saw a few work friends, and saw a lot of people from my old team. Free food was a bonus. It's a shame, though...they completely remodeled the office with all this great collaboration equipment, but it rarely gets used. Not that I want to go back full time (the drive sucks), but I hate to see it go to waste.</p>\n<p>It's a story too long to tell, but I've been dealing with a charge for training that I wasn't supposed to pay for. My part was $400, but through a series of unfortunate clicks, I paid $3600. The refund is somewhere between PayPal and my bank, a kind of purgatory that I wouldn't wish on my worst enemy. </p>\n<p>I'm diving deeper into automation with Power Automate and Teams at work. Not my job, but a skill that really helps me streamline things for my team. Going to start taking some training and impress the shit out of people.</p>\n<p>Fun note: go check out <a href=\"https://ideogram.ai\" target=\"_blank\" rel=\"noopener noreferrer\">ideogram.ai</a>. It's a pretty good AI picture generator. The logo for my site was created with it, as was the featured image for this post.</p>",
-            "image": "https://davidwk.io/media/posts/7/totoro_ai.jpeg",
-            "author": {
-                "name": "David K"
-            },
-            "tags": [
-                   "daily"
-            ],
-            "date_published": "2023-08-31T12:38:35-04:00",
-            "date_modified": "2023-08-31T13:05:02-04:00"
         }
     ]
 }
