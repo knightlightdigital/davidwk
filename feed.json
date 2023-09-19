@@ -11,6 +11,23 @@
     },
     "items": [
         {
+            "id": "https://davidwk.io/eaa-session-for-91823/",
+            "url": "https://davidwk.io/eaa-session-for-91823/",
+            "title": "EAA Session for 9/18/23",
+            "summary": "I was able to catch the Triangulum Galaxy (M33, pictured above) and Saturn last night. Both images are pretty rough but I was happy with the Saturn result. This was all done on the 80mm refractor. I'm going to attempt Jupiter and Saturn tonight with my Celestron 8se on the&hellip;",
+            "content_html": "<p>I was able to catch the Triangulum Galaxy (M33, pictured above) and Saturn last night. Both images are pretty rough but I was happy with the Saturn result. This was all done on the 80mm refractor. I'm going to attempt Jupiter and Saturn tonight with my Celestron 8se on the EAA mount and see if I can get better results. I'm also going to give it a try with the atmospheric dispersion corrector and see if I can remove some of the fringing.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://davidwk.io/media/posts/19/2023-09-18-222336-Saturn-Bin1-20.5C_lapl5_ap1_Drizzle30_conv.png\" alt=\"A photo of Saturn\" width=\"655\" height=\"612\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://davidwk.io/media/posts/19/responsive/2023-09-18-222336-Saturn-Bin1-20.5C_lapl5_ap1_Drizzle30_conv-xs.png 300w ,https://davidwk.io/media/posts/19/responsive/2023-09-18-222336-Saturn-Bin1-20.5C_lapl5_ap1_Drizzle30_conv-sm.png 480w ,https://davidwk.io/media/posts/19/responsive/2023-09-18-222336-Saturn-Bin1-20.5C_lapl5_ap1_Drizzle30_conv-md.png 768w ,https://davidwk.io/media/posts/19/responsive/2023-09-18-222336-Saturn-Bin1-20.5C_lapl5_ap1_Drizzle30_conv-xl.png 1200w\"></figure>",
+            "image": "https://davidwk.io/media/posts/19/2023-09-19-09-57-38.jpeg",
+            "author": {
+                "name": "David K"
+            },
+            "tags": [
+                   "eaa",
+                   "astronomy"
+            ],
+            "date_published": "2023-09-19T12:43:33-04:00",
+            "date_modified": "2023-09-19T12:43:33-04:00"
+        },
+        {
             "id": "https://davidwk.io/k-review-diary-of-a-prosecutor/",
             "url": "https://davidwk.io/k-review-diary-of-a-prosecutor/",
             "title": "K-Review - Diary of a Prosecutor",
@@ -157,22 +174,6 @@
             ],
             "date_published": "2023-09-02T11:29:26-04:00",
             "date_modified": "2023-09-02T11:29:26-04:00"
-        },
-        {
-            "id": "https://davidwk.io/daily-post-for-sep-1-2023/",
-            "url": "https://davidwk.io/daily-post-for-sep-1-2023/",
-            "title": "Daily Post for Sep 1, 2023",
-            "summary": "It's a huge week for K-Drama fans in America as the last two episodes of \"The Uncanny Counter\" season 2 get released. Rather than bitch that it's not the usual 16 episode season, I'm going to be happy that I got to see 12 more episodes of this fantastic show.",
-            "content_html": "<p>It's a huge week for K-Drama fans in America as the last two episodes of \"The Uncanny Counter\" season 2 get released. Rather than bitch that it's not the usual 16 episode season, I'm going to be happy that I got to see 12 more episodes of this fantastic show. Later this month we get \"A Time Called You\" which, if the trailer is accurate, is going to destroy a lot of us fans, emotionally speaking.</p>\n<p>And on the subject of South Korea, my favorite country I've never been to, I read a fairly alarming article about how the birth rate, which is already the lowest in the world, has dropped once again. Science says a population needs a fertility rate of over 2% to sustain itself. South Korea's stands at 0.78%. Yikes! <a href=\"https://www.wsj.com/world/asia/worlds-lowest-birthrate-sinks-further-despite-cash-payouts-to-parents-23a92210\" target=\"_blank\" rel=\"noopener noreferrer\">Read the article</a>.</p>\n<p>It's a long weekend here in the US. It's Labor Day, which is traditionally the holiday dumb-ass Trumpers confuse with Memorial Day. That means we can expect the usual deluge of \"While you're stuffing your face at a cookout you libtards better not forget the soldiers who died so you could have the day off!\" posts. (FYI libtards is their word, not mine. I'm just using it to accurately represent the level of maturity in their social media.)</p>\n<p>I've been contemplating my career a bit lately, mostly as a result of my (first at this company) bad review from last year. A whole plethora (do you know what a plethora is?) of circumstances culminated in that particular situation, including some mental health setbacks. However there was some feedback from a peer on that review that was entirely false. I guess I was naive to think I'm too old to make enemies at work. But to the point, I've been considering whether or not I'm in the right role for myself at this point in time. It doesn't bring me the sense of accomplishment that it once did. I don't want to leave the company at all - it's a great place to work. But it's big enough that I could find something else that might make me happier. </p>\n<p>Yesterday the weather was so nice that, for a moment, I forgot about how fucked we are for continuing to destroy the environment. Please visualize that GIF of Nicolas Cage smiling, wind blowing through his hair in \"Con-Air\" for context. Watching Kid 5's soccer practice was a little less skin-cancerish for once.</p>\n<p> </p>",
-            "image": "https://davidwk.io/media/posts/8/carlin-2.jpeg",
-            "author": {
-                "name": "David K"
-            },
-            "tags": [
-                   "daily"
-            ],
-            "date_published": "2023-09-01T08:52:40-04:00",
-            "date_modified": "2023-09-01T10:01:53-04:00"
         }
     ]
 }
