@@ -11,6 +11,23 @@
     },
     "items": [
         {
+            "id": "https://davidwk.io/here-comes-the-sun/",
+            "url": "https://davidwk.io/here-comes-the-sun/",
+            "title": "Here Comes the Sun",
+            "summary": "Imaging the Sun in Calcium K reveals a lot of detail. These were taken on Sep 22, 2023 from my back yard. Seeing was perfect. Technically speaking, the best result I got was with stacking 30% of 5000 frames.",
+            "content_html": "<p>Imaging the Sun in Calcium K reveals a lot of detail. These were taken on Sep 22, 2023 from my back yard. Seeing was perfect. Technically speaking, the best result I got was with stacking 30% of 5000 frames.</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://davidwk.io/media/posts/20/gallery/14_08_18_Surface_50_Sharp20_B1.0_C1.0_S1_N1.png\" data-size=\"1700x1600\"><img loading=\"lazy\" src=\"https://davidwk.io/media/posts/20/gallery/14_08_18_Surface_50_Sharp20_B1.0_C1.0_S1_N1-thumbnail.png\" alt=\"\" width=\"768\" height=\"723\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://davidwk.io/media/posts/20/gallery/14_08_18_Surface_50_Sharp20_B7.0_C0.7_S27_N33_SUN.png\" data-size=\"1000x1007\"><img loading=\"lazy\" src=\"https://davidwk.io/media/posts/20/gallery/14_08_18_Surface_50_Sharp20_B7.0_C0.7_S27_N33_SUN-thumbnail.png\" alt=\"\" width=\"768\" height=\"773\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://davidwk.io/media/posts/20/gallery/14_57_53_Surface_60_Sharp20_B1.0_C0.3_S1_N1-bw.png\" data-size=\"1760x1737\"><img loading=\"lazy\" src=\"https://davidwk.io/media/posts/20/gallery/14_57_53_Surface_60_Sharp20_B1.0_C0.3_S1_N1-bw-thumbnail.png\" alt=\"\" width=\"768\" height=\"758\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://davidwk.io/media/posts/20/gallery/14_57_53_Surface_60_Sharp20_B1.0_C0.3_S1_N1.png\" data-size=\"1760x1737\"><img loading=\"lazy\" src=\"https://davidwk.io/media/posts/20/gallery/14_57_53_Surface_60_Sharp20_B1.0_C0.3_S1_N1-thumbnail.png\" alt=\"\" width=\"768\" height=\"758\"></a></figure>\n</div></div>",
+            "image": "https://davidwk.io/media/posts/20/14_57_53_Surface_60_Sharp20_B1.0_C0.3_S1_N1.png",
+            "author": {
+                "name": "David K"
+            },
+            "tags": [
+                   "solar",
+                   "astronomy"
+            ],
+            "date_published": "2023-09-22T15:49:48-04:00",
+            "date_modified": "2023-09-22T15:49:48-04:00"
+        },
+        {
             "id": "https://davidwk.io/eaa-session-for-91823/",
             "url": "https://davidwk.io/eaa-session-for-91823/",
             "title": "EAA Session for 9/18/23",
@@ -158,22 +175,6 @@
             ],
             "date_published": "2023-09-03T08:59:19-04:00",
             "date_modified": "2023-09-03T09:00:04-04:00"
-        },
-        {
-            "id": "https://davidwk.io/daily-post-for-sep-2-2023/",
-            "url": "https://davidwk.io/daily-post-for-sep-2-2023/",
-            "title": "Daily Post for Sep 2, 2023",
-            "summary": "I just finished episode 11 of \"The Uncanny Counter\" season 2. Final episode tomorrow. Right now, this is the best thing on television. It's damn near a perfect show. In related K-Drama news, \"Destined With You\" is really starting to grow on me after three episodes. I did a rare&hellip;",
-            "content_html": "<p>I just finished episode 11 of \"The Uncanny Counter\" season 2. Final episode tomorrow. Right now, this is the best thing on television. It's damn near a perfect show. In related K-Drama news, \"Destined With You\" is really starting to grow on me after three episodes.</p>\n<p>I did a rare thing last night. I stayed up past my bedtime to go to a movie. \"The Equalizer 3\" was two hours of gore and violence punctuated by Denzel Washington being an absolute bad-ass. </p>\n<p>Tonight will be public astronomy outreach at a local park. Saturn should be amazing if we have clear skies. This will be my first time setting up a telescope in a while. I hope everything still works.</p>\n<p> </p>",
-            "image": "https://davidwk.io/media/posts/9/the-uncanny-counter-season-two-9.jpg",
-            "author": {
-                "name": "David K"
-            },
-            "tags": [
-                   "daily"
-            ],
-            "date_published": "2023-09-02T11:29:26-04:00",
-            "date_modified": "2023-09-02T11:29:26-04:00"
         }
     ]
 }
