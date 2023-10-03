@@ -11,6 +11,23 @@
     },
     "items": [
         {
+            "id": "https://davidwk.io/k-review-business-proposal/",
+            "url": "https://davidwk.io/k-review-business-proposal/",
+            "title": "K-Review - Business Proposal",
+            "summary": "They hype around \"Business Proposal\" was a bit overblown, in my opinion. It's certainly a fun show to watch, and it has a lot of very well-constructed moments. But ultimately I liked those moments instead of how the story came together as a whole. A lot of the hype was&hellip;",
+            "content_html": "<p>They hype around \"Business Proposal\" was a bit overblown, in my opinion. It's certainly a fun show to watch, and it has a lot of very well-constructed moments. But ultimately I liked those moments instead of how the story came together as a whole.</p>\n<p>A lot of the hype was around Kim Se-jeong and it's well-deserved. Her acting is effortless, completely natural, and genuine. The small group of actors who make up her work team are all a bit over-the-top, but it plays well off her more subtle performance. Those scenes with her co-workers were the ones I enjoyed the most throughout the series.</p>\n<p>So many of the over-arching story threads felt like they were abandoned or wrapped up too neatly, though. The one that felt most neglected was the resolution with Tae-moo's grandfather. In the end we don't get any resolution between him and Shin Ha-ri - just a brief comment about how he's still in America. It's like they ran out of episodes to fully close his part of the story.</p>\n<p>I still recommend watching \"Business Proposal\", but don't expect too much from it plot-wise. Watch it for the well-developed characters and the brilliant performance by Kim Se-jeong.</p>",
+            "image": "https://davidwk.io/media/posts/22/Business-Proposal-Kdrama-Season-2.jpeg",
+            "author": {
+                "name": "David K"
+            },
+            "tags": [
+                   "review",
+                   "k-drama"
+            ],
+            "date_published": "2023-10-03T14:08:22-04:00",
+            "date_modified": "2023-10-03T14:08:22-04:00"
+        },
+        {
             "id": "https://davidwk.io/airplanes-and-nebulae/",
             "url": "https://davidwk.io/airplanes-and-nebulae/",
             "title": "Airplanes and Nebulae",
@@ -158,23 +175,6 @@
             ],
             "date_published": "2023-09-06T20:33:58-04:00",
             "date_modified": "2023-09-06T20:43:27-04:00"
-        },
-        {
-            "id": "https://davidwk.io/daily-post-for-sep-4-2023/",
-            "url": "https://davidwk.io/daily-post-for-sep-4-2023/",
-            "title": "Daily Post for Sep 4, 2023",
-            "summary": "In order to avoid physical labor, I've been spending a couple of days setting up Logseq for keeping notes and task lists. When digging through the available plugins I found one for ChatGPT. Now, I don't think what we're calling \"AI\" these days is actually AI. There's no real intelligence&hellip;",
-            "content_html": "<p>In order to avoid physical labor, I've been spending a couple of days setting up <a href=\"https://logseq.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Logseq</a> for keeping notes and task lists. When digging through the available plugins I found one for ChatGPT. Now, I don't think what we're calling \"AI\" these days is actually AI. There's no real intelligence there, and these systems aren't thinking for themselves. We've just gotten very good at training these large language models to write text that sounds like a person wrote it. But what we CAN do is still pretty cool. Here's an example of the output you get when I asked it to write a summary for \"The Uncanny Counter\".</p>\n<p> </p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/3PtmgZN3jhU?si=pl5jAlpb5AtVRyqn\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<p> </p>",
-            "image": "https://davidwk.io/media/posts/11/irobot.jpg",
-            "author": {
-                "name": "David K"
-            },
-            "tags": [
-                   "logseq",
-                   "daily"
-            ],
-            "date_published": "2023-09-04T11:34:11-04:00",
-            "date_modified": "2023-09-04T11:47:12-04:00"
         }
     ]
 }

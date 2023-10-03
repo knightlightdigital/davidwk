@@ -3,12 +3,40 @@
     <title>David WK</title>
     <link href="https://davidwk.io/feed.xml" rel="self" />
     <link href="https://davidwk.io" />
-    <updated>2023-10-03T13:47:20-04:00</updated>
+    <updated>2023-10-03T14:08:22-04:00</updated>
     <author>
         <name>David K</name>
     </author>
     <id>https://davidwk.io</id>
 
+    <entry>
+        <title>K-Review - Business Proposal</title>
+        <author>
+            <name>David K</name>
+        </author>
+        <link href="https://davidwk.io/k-review-business-proposal/"/>
+        <id>https://davidwk.io/k-review-business-proposal/</id>
+        <media:content url="https://davidwk.io/media/posts/22/Business-Proposal-Kdrama-Season-2.jpeg" medium="image" />
+            <category term="review"/>
+            <category term="k-drama"/>
+
+        <updated>2023-10-03T14:08:22-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://davidwk.io/media/posts/22/Business-Proposal-Kdrama-Season-2.jpeg" alt="A promotional image from the K-Drama series Business Proposal" />
+                    They hype around "Business Proposal" was a bit overblown, in my opinion. It's certainly a fun show to watch, and it has a lot of very well-constructed moments. But ultimately I liked those moments instead of how the story came together as a whole. A lot of the hype was&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://davidwk.io/media/posts/22/Business-Proposal-Kdrama-Season-2.jpeg" class="type:primaryImage" alt="A promotional image from the K-Drama series Business Proposal" /></p>
+                <p>They hype around "Business Proposal" was a bit overblown, in my opinion. It's certainly a fun show to watch, and it has a lot of very well-constructed moments. But ultimately I liked those moments instead of how the story came together as a whole.</p>
+<p>A lot of the hype was around Kim Se-jeong and it's well-deserved. Her acting is effortless, completely natural, and genuine. The small group of actors who make up her work team are all a bit over-the-top, but it plays well off her more subtle performance. Those scenes with her co-workers were the ones I enjoyed the most throughout the series.</p>
+<p>So many of the over-arching story threads felt like they were abandoned or wrapped up too neatly, though. The one that felt most neglected was the resolution with Tae-moo's grandfather. In the end we don't get any resolution between him and Shin Ha-ri - just a brief comment about how he's still in America. It's like they ran out of episodes to fully close his part of the story.</p>
+<p>I still recommend watching "Business Proposal", but don't expect too much from it plot-wise. Watch it for the well-developed characters and the brilliant performance by Kim Se-jeong.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Airplanes and Nebulae</title>
         <author>
@@ -270,34 +298,6 @@
                 <p>Not much to update for today, but since I missed yesterday I better make an effort to keep with the habit.</p>
 <p>It was another day in the office. I was oddly productive. I'll have to consult my scientists to see why that might be.</p>
 <p>I was able to work a lot with Logseq today and really enjoyed it. I'm getting some of the basic keyboard commands down, in addition to building a habit of logging things more. Tonight Kid 5 and I made a list of some cabins we would like to visit and created <a href="https://davidwk.io/cabins-we-like/">this page</a> to keep track. We generated the Markdown in Logseq and exported it here.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Daily Post for Sep 4, 2023</title>
-        <author>
-            <name>David K</name>
-        </author>
-        <link href="https://davidwk.io/daily-post-for-sep-4-2023/"/>
-        <id>https://davidwk.io/daily-post-for-sep-4-2023/</id>
-        <media:content url="https://davidwk.io/media/posts/11/irobot.jpg" medium="image" />
-            <category term="logseq"/>
-            <category term="daily"/>
-
-        <updated>2023-09-04T11:47:12-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://davidwk.io/media/posts/11/irobot.jpg" alt="Sonny from &quot;I, Robot&quot; winking" />
-                    In order to avoid physical labor, I've been spending a couple of days setting up Logseq for keeping notes and task lists. When digging through the available plugins I found one for ChatGPT. Now, I don't think what we're calling "AI" these days is actually AI. There's no real intelligence&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://davidwk.io/media/posts/11/irobot.jpg" class="type:primaryImage" alt="Sonny from &quot;I, Robot&quot; winking" /></p>
-                <p>In order to avoid physical labor, I've been spending a couple of days setting up <a href="https://logseq.com/" target="_blank" rel="noopener noreferrer">Logseq</a> for keeping notes and task lists. When digging through the available plugins I found one for ChatGPT. Now, I don't think what we're calling "AI" these days is actually AI. There's no real intelligence there, and these systems aren't thinking for themselves. We've just gotten very good at training these large language models to write text that sounds like a person wrote it. But what we CAN do is still pretty cool. Here's an example of the output you get when I asked it to write a summary for "The Uncanny Counter".</p>
-<p> </p>
-<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/3PtmgZN3jhU?si=pl5jAlpb5AtVRyqn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></div>
-<p> </p>
             ]]>
         </content>
     </entry>
