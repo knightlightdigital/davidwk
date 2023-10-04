@@ -3,12 +3,40 @@
     <title>David WK</title>
     <link href="https://davidwk.io/feed.xml" rel="self" />
     <link href="https://davidwk.io" />
-    <updated>2023-10-03T14:08:22-04:00</updated>
+    <updated>2023-10-04T09:47:17-04:00</updated>
     <author>
         <name>David K</name>
     </author>
     <id>https://davidwk.io</id>
 
+    <entry>
+        <title>Favorite Way to Start My Day</title>
+        <author>
+            <name>David K</name>
+        </author>
+        <link href="https://davidwk.io/favorite-way-to-start-my-day/"/>
+        <id>https://davidwk.io/favorite-way-to-start-my-day/</id>
+        <media:content url="https://davidwk.io/media/posts/23/kenneth.png" medium="image" />
+            <category term="tiktok"/>
+            <category term="street broadcasters"/>
+            <category term="k-content"/>
+
+        <updated>2023-10-04T09:47:17-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://davidwk.io/media/posts/23/kenneth.png" alt="An image of Kenneth&#x27;s live stream on TikTok" />
+                    South Korean street broadcasters are the bomb (as the kids say). My personal favorite is Kenneth, who usually starts during my morning, 8-9pm in South Korea. He takes his viewers all over Seoul - the busy districts like Hongdae, the area around Namsan Tower, and even the outlying temples and&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://davidwk.io/media/posts/23/kenneth.png" class="type:primaryImage" alt="An image of Kenneth&#x27;s live stream on TikTok" /></p>
+                <p>South Korean street broadcasters are the bomb (as the kids say). My personal favorite is Kenneth, who usually starts during my morning, 8-9pm in South Korea. He takes his viewers all over Seoul - the busy districts like Hongdae, the area around Namsan Tower, and even the outlying temples and gardens. He seems like a genuinely happy guy who enjoys interacting with his audience. Some of my favorite moments are when he navigates the alleyways of Seoul's neighborhoods looking for feral cats, which he frequently feeds and plays with. </p>
+<p>I happily endorse this fantastic content! Check him out <a href="https://www.tiktok.com/@hanriverlureman" target="_blank" rel="noopener noreferrer">here</a>.</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://davidwk.io/media/posts/23/IMG_0127.PNG" alt="A view of Kenneth's live stream" width="1290" height="2796" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://davidwk.io/media/posts/23/responsive/IMG_0127-xs.PNG 300w ,https://davidwk.io/media/posts/23/responsive/IMG_0127-sm.PNG 480w ,https://davidwk.io/media/posts/23/responsive/IMG_0127-md.PNG 768w ,https://davidwk.io/media/posts/23/responsive/IMG_0127-xl.PNG 1200w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>K-Review - Business Proposal</title>
         <author>
@@ -272,32 +300,6 @@
 <p>I ordered a copy of the National Geographic Stargazer's Atlas. I'm more excited than I should be for a book. Nerd-mode engaged.</p>
 <p>My recently moved-out teenager finally found a decent job, and might have an apartment soon. He doesn't give a lot of details and I don't ask, but I'm certainly proud of him. This is huge progress over where he was a couple of months ago.</p>
 <p>Speaking of which, life is much calmer without him in the house. We all needed space. It's not easy on a family when they have to deal with another member's trauma, particularly when they don't want to help themselves. I think being on his own has been a net positive.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Daily Post for Sep 6, 2023</title>
-        <author>
-            <name>David K</name>
-        </author>
-        <link href="https://davidwk.io/daily-post-for-sep-6-2023/"/>
-        <id>https://davidwk.io/daily-post-for-sep-6-2023/</id>
-        <media:content url="https://davidwk.io/media/posts/12/cabin.jpg" medium="image" />
-            <category term="daily"/>
-
-        <updated>2023-09-06T20:43:27-04:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://davidwk.io/media/posts/12/cabin.jpg" alt="A cabin in Tennessee" />
-                    Not much to update for today, but since I missed yesterday I better make an effort to keep with the habit. It was another day in the office. I was oddly productive. I'll have to consult my scientists to see why that might be. I was able to work a&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://davidwk.io/media/posts/12/cabin.jpg" class="type:primaryImage" alt="A cabin in Tennessee" /></p>
-                <p>Not much to update for today, but since I missed yesterday I better make an effort to keep with the habit.</p>
-<p>It was another day in the office. I was oddly productive. I'll have to consult my scientists to see why that might be.</p>
-<p>I was able to work a lot with Logseq today and really enjoyed it. I'm getting some of the basic keyboard commands down, in addition to building a habit of logging things more. Tonight Kid 5 and I made a list of some cabins we would like to visit and created <a href="https://davidwk.io/cabins-we-like/">this page</a> to keep track. We generated the Markdown in Logseq and exported it here.</p>
             ]]>
         </content>
     </entry>
